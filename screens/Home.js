@@ -149,7 +149,7 @@ export default function Home({ navigation, route }) {
                 }}
               />
               <View>
-                <Text style={{ fontSize: 30 }}>{item.title}</Text>
+                <Text style={{ fontSize: 20 }}>{item.title}</Text>
                 <Text style={{ fontSize: 15 }}>Description: {item.body}</Text>
                 <Text style={{ fontSize: 15 }}> Due: {item.date} </Text>
               </View>
