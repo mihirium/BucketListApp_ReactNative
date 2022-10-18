@@ -2,6 +2,15 @@
 
 This is a bucket list app created by Mihir Sangameswar (mas6tm) using React Native and Expo. It comes pre-populated with 2 items. You can add items by clicking the plus button in the left hand corner or edit pre-existing ones by clicking on the item you want to edit. You may also change an item to completed or not completed by clicking the checkbox.
 
+## Installation
+
+This project was created using expo and the required dependecies need to be installed before running.
+
+```bash
+nvm use --lts
+npm install
+```
+
 ## Special Features
 
 None
